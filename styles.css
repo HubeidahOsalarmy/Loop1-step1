@@ -110,7 +110,34 @@ img {
     width: 25%;
     height: auto;
 }
+@ media (max-width: 576px) {
+.black {
+    width: 100vw;
+    height: 100vw;
 
+}
+.blue {
+    width: 100vw;
+    height: 90%;
+}
+.white {
+    width: 80%;
+    height: 60%;
+}
+.mobile {
+    width: 35%;
+    
+}
+.desktop {
+    width: 35%;
+    
+}
+.tv {
+
+    width: 35%;
+
+}
+}
 
 
 
