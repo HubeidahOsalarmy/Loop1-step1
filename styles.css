@@ -1,0 +1,122 @@
+body {
+    font-family: Roboto, sans-serif;
+}
+.black {
+    display: flex;
+    background-color: black;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+}
+.blue {
+    background-color: #7a9bcf;
+    width: 100vw;
+    height: 90%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.white {
+    background-color: white;
+    display: flex;
+    width: 80%;
+    height: 60%;
+}
+span {
+    color: #6f87ce;
+    display: inline-block;
+    text-align: center;
+}
+.get {
+    color: black;
+    font-size: 15px;
+    margin: auto;
+    font-weight: lighter;
+    width: 75%;
+    text-align: center;
+    padding: 5px;
+}
+.money {
+    text-align: center;
+    margin: 5px;
+    position: relative;
+}
+.dollar {
+    font-size: 10px;
+    position: absolute;
+    top: 0;
+    margin-top: 0;
+    margin-right: 5px;
+}
+.ten {
+    font-size: 25px;
+    margin: 0;
+    padding: 0;
+}
+.month {
+    font-size: 10px;
+}
+.mobile {
+    display: grid;
+    margin: 10px 10px 15px 10px;
+    padding: 15px;
+    justify-content: center;
+    align-items: center;
+    width: 35%;
+}
+.mobile:hover {
+    background-color: rgb(250, 246, 246);
+    cursor: pointer;
+}
+.desktop {
+    display: grid;
+    margin: 10px 10px 15px 10px;
+    padding: 15px;
+    justify-content: center;
+    align-items: center;
+    width: 35%;
+    
+}
+.desktop:hover {
+    background-color: rgb(250, 246, 246);
+    cursor: pointer;
+
+}
+.tv {
+    display: grid;
+    margin: 10px 10px 15px 10px;
+    padding: 15px;
+    justify-content: center;
+    align-items: center;
+    width: 35%;
+
+}
+.tv:hover {
+    background-color: rgb(250, 246, 246);
+    cursor: pointer;
+
+}
+span {
+    font-size: 25px;
+    font-weight: bold;
+    margin-top: 15px;
+    color: #4565c7;
+    
+}
+img {
+    display: block;
+    margin: auto;
+    width: 25%;
+    height: auto;
+}
+
+
+
+
+
+
+
+
+
+
